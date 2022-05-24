@@ -1,2 +1,2 @@
-The website is live on service-web.netlify.app.
+The website is live on https://service-web.netlify.app
 
